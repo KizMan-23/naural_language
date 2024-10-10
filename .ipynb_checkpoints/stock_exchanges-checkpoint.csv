@@ -1,0 +1,113 @@
+,Exchange Name,Country,Code,Currency,Stocks
+0,US OTC,United States,OTC,USD,7458
+1,Tokyo Stock Exchange,Japan,TYO,JPY,3873
+2,Nasdaq Stock Market,United States,NASDAQ,USD,3328
+3,Shenzhen Stock Exchange,China,SHE,CNY,2808
+4,Bombay Stock Exchange,India,BOM,INR,2577
+5,Hong Kong Stock Exchange,Hong Kong,HKG,HKD,2415
+6,Shanghai Stock Exchange,China,SHA,CNY,2170
+7,National Stock Exchange of India,India,NSE,INR,1983
+8,New York Stock Exchange,United States,NYSE,USD,1960
+9,Australian Securities Exchange,Australia,ASX,AUD,1640
+10,KOSDAQ,South Korea,KOSDAQ,KRW,1636
+11,Taipei Exchange,Taiwan,TPEX,TWD,1132
+12,Taiwan Stock Exchange,Taiwan,TPE,TWD,1013
+13,Bursa Malaysia,Malaysia,KLSE,MYR,954
+14,Stock Exchange of Thailand,Thailand,BKK,THB,847
+15,Indonesia Stock Exchange,Indonesia,IDX,IDR,843
+16,Korea Stock Exchange,South Korea,KRX,KRW,813
+17,TSX Venture Exchange,Canada,TSXV,CAD,793
+18,Nasdaq Stockholm,Sweden,STO,SEK,734
+19,Toronto Stock Exchange,Canada,TSX,CAD,709
+20,Deutsche Börse Xetra,Germany,ETR,EUR,687
+21,London Stock Exchange AIM,United Kingdom,AIM,GBP,677
+22,London Stock Exchange,United Kingdom,LON,GBP,603
+23,Euronext Paris,France,EPA,EUR,596
+24,Tel Aviv Stock Exchange,Israel,TLV,ILS,483
+25,Pakistan Stock Exchange,Pakistan,PSX,PKR,450
+26,Canadian Securities Exchange,Canada,CSE,CAD,406
+27,Ho Chi Minh Stock Exchange,Vietnam,HOSE,VND,384
+28,Warsaw Stock Exchange,Poland,WSE,PLN,383
+29,Dhaka Stock Exchange,Bangladesh,DSE,BDT,353
+30,Singapore Exchange,Singapore,SGX,SGD,340
+31,Saudi Stock Exchange,Saudi Arabia,TADAWUL,SAR,309
+32,Brazil Stock Exchange,Brazil,BVMF,BRL,307
+33,Colombo Stock Exchange,Sri Lanka,COSE,LKR,267
+34,Philippine Stock Exchange,Philippines,PSE,PHP,261
+35,Borsa Italiana,Italy,BIT,EUR,242
+36,Oslo Børs,Norway,OSL,NOK,239
+37,NYSE American,United States,AMEX,USD,235
+38,Egyptian Stock Exchange,Egypt,EGX,EGP,215
+39,Johannesburg Stock Exchange,South Africa,JSE,ZAR,210
+40,SIX Swiss Exchange,Switzerland,SWX,CHF,207
+41,Moscow Stock Exchange,Russia,MOEX,RUB,202
+42,Bucharest Stock Exchange,Romania,BVB,RON,174
+43,Singapore Exchange - Catalist,Singapore,SGXC,SGD,160
+44,Copenhagen Stock Exchange,Denmark,CPH,DKK,157
+45,Santiago Stock Exchange,Chile,SNSE,CLP,154
+46,Nasdaq Helsinki,Finland,HEL,EUR,151
+47,Nigerian Stock Exchange,Nigeria,NGX,NGN,148
+48,Madrid Stock Exchange,Spain,BME,EUR,142
+49,Kuwait Stock Exchange,Kuwait,KWSE,KWD,142
+50,Nordic Growth Market,Sweden,NGM,SEK,138
+51,Frankfurt Stock Exchange,Germany,FRA,EUR,137
+52,Istanbul Stock Exchange,Turkey,IST,TRY,137
+53,New Zealand Stock Exchange,New Zealand,NZE,NZD,118
+54,Amman Stock Exchange,Jordan,ASE,JOD,116
+55,Korea New Exchange,South Korea,XKON,KRW,112
+56,Luxembourg Stock Exchange,Luxembourg,LUX,EUR,111
+57,Euronext Brussels,Belgium,EBR,EUR,106
+58,Euronext Amsterdam,Netherlands,AMS,EUR,104
+59,Lima Stock Exchange,Peru,BVL,PEN,104
+60,Muscat Securities Market,Oman,MSM,OMR,103
+61,Abu Dhabi Securities Exchange,United Arab Emirates,ADX,AED,96
+62,Vienna Stock Exchange,Austria,VIE,EUR,96
+63,Jamaica Stock Exchange,Jamaica,JMSE,JMD,94
+64,Mauritius Stock Exchange,Mauritius,MUSE,MUR,89
+65,Athens Stock Exchange,Greece,ATH,EUR,87
+66,Cboe Canada,Canada,NEO,CAD,85
+67,Aquis Exchange,United Kingdom,AQU,GBP,84
+68,Bulgarian Stock Exchange,Bulgaria,BUL,BGN,76
+69,Hamburg Stock Exchange,Germany,HAM,EUR,71
+70,Casablanca Stock Exchange,Morocco,CBSE,MAD,69
+71,Tunis Stock Exchange,Tunisia,BVMT,TND,65
+72,Buenos Aires Stock Exchange,Argentina,BCBA,ARS,63
+73,Colombia Stock Exchange,Colombia,BVC,COP,59
+74,Nagoya Stock Exchange,Japan,XNGO,JPY,57
+75,Nairobi Stock Exchange,Kenya,NASE,KES,53
+76,Qatar Stock Exchange,Qatar,QSE,QAR,52
+77,Dubai Financial Market,United Arab Emirates,DFM,AED,51
+78,Zagreb Stock Exchange,Croatia,ZSE,HRK,48
+79,Budapest Stock Exchange,Hungary,BUD,HUF,46
+80,Prague Stock Exchange,Czech Republic,PRA,CZK,45
+81,Ivory Coast Stock Exchange,Ivory Coast,BRVM,XOF,43
+82,Mexican Stock Exchange,Mexico,BMV,MXN,41
+83,Dusseldorf Stock Exchange,Germany,DUSE,EUR,40
+84,Euronext Lisbon,Portugal,ELI,EUR,36
+85,Nasdaq Iceland,Iceland,ICE,ISK,33
+86,Stuttgart Stock Exchange,Germany,BST,EUR,31
+87,Cyprus Stock Exchange,Cyprus,CYS,EUR,31
+88,Namibian Stock Exchange,Namibia,NMSE,NAD,31
+89,Nasdaq Tallinn,Estonia,TAL,EUR,30
+90,Nasdaq Vilnius,Lithuania,VSE,EUR,27
+91,Euronext Dublin,Ireland,ISE,EUR,26
+92,Palestine Stock Exchange,Palestine,PEX,JOD,24
+93,Bahrain Stock Exchange,Bahrain,BAX,BHD,23
+94,Fukuoka Stock Exchange,Japan,FKSE,JPY,23
+95,Malta Stock Exchange,Malta,MSE,EUR,23
+96,Caracas Stock Exchange,Venezuela,CCSE,VES,19
+97,Tanzania Stock Exchange,Tanzania,DAR,TZS,19
+98,Lusaka Stock Exchange,Zambia,LUSE,ZMW,19
+99,Belgrade Stock Exchange,Serbia,BELEX,EUR,18
+100,Botswana Stock Exchange,Botswana,BSM,BWP,18
+101,Kazakhstan Stock Exchange,Kazakhstan,KASE,KZT,18
+102,Sapporo Stock Exchange,Japan,SPSE,JPY,17
+103,Uganda Securities Exchange,Uganda,UGSE,UGX,17
+104,Ljubljana Stock Exchange,Slovenia,LJSE,EUR,15
+105,Malawi Stock Exchange,Malawi,MAL,MWK,13
+106,Nasdaq Riga,Latvia,RSE,EUR,11
+107,Beirut Stock Exchange,Lebanon,BDB,LBP,8
+108,Bratislava Stock Exchange,Slovakia,BSSE,EUR,6
+109,PFTS Stock Exchange,Ukraine,UKR,UAH,6
+110,CBOE Europe,Europe,CHIX,EUR,5
+111,Zimbabwe Stock Exchange,Zimbabwe,ZMSE,ZWL,5
