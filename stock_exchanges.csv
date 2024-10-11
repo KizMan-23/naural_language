@@ -1,14 +1,14 @@
 Exchange Name,Country,Code,Currency,Stocks
 US OTC,United States,OTC,USD,7458
 Tokyo Stock Exchange,Japan,TYO,JPY,3873
-Nasdaq Stock Market,United States,NASDAQ,USD,3328
+Nasdaq Stock Market,United States,NASDAQ,USD,3329
 Shenzhen Stock Exchange,China,SHE,CNY,2808
 Bombay Stock Exchange,India,BOM,INR,2577
 Hong Kong Stock Exchange,Hong Kong,HKG,HKD,2415
 Shanghai Stock Exchange,China,SHA,CNY,2170
 National Stock Exchange of India,India,NSE,INR,1983
 New York Stock Exchange,United States,NYSE,USD,1960
-Australian Securities Exchange,Australia,ASX,AUD,1640
+Australian Securities Exchange,Australia,ASX,AUD,1641
 KOSDAQ,South Korea,KOSDAQ,KRW,1636
 Taipei Exchange,Taiwan,TPEX,TWD,1132
 Taiwan Stock Exchange,Taiwan,TPE,TWD,1013
@@ -60,8 +60,8 @@ Euronext Brussels,Belgium,EBR,EUR,106
 Euronext Amsterdam,Netherlands,AMS,EUR,104
 Lima Stock Exchange,Peru,BVL,PEN,104
 Muscat Securities Market,Oman,MSM,OMR,103
+Vienna Stock Exchange,Austria,VIE,EUR,97
 Abu Dhabi Securities Exchange,United Arab Emirates,ADX,AED,96
-Vienna Stock Exchange,Austria,VIE,EUR,96
 Jamaica Stock Exchange,Jamaica,JMSE,JMD,94
 Mauritius Stock Exchange,Mauritius,MUSE,MUR,89
 Athens Stock Exchange,Greece,ATH,EUR,87
