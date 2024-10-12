@@ -1,5 +1,5 @@
 No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
-1,BRK.B,Berkshire Hathaway Inc.,980.44B,1.16%,"3,237,949",370.11B
+1,BRK.B,Berkshire Hathaway Inc.,992.43B,1.16%,"3,237,949",370.11B
 2,JPM,JPMorgan Chase & Co.,632.45B,4.44%,"16,243,847",159.44B
 3,V,Visa Inc.,528.55B,0.13%,"3,725,722",34.92B
 4,MA,Mastercard Incorporated,464.01B,0.85%,"1,533,205",26.39B
@@ -7,7 +7,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 6,WFC,Wells Fargo & Company,207.60B,5.61%,"32,095,917",77.88B
 7,AXP,American Express Company,196.33B,2.10%,"1,293,238",58.11B
 8,MS,Morgan Stanley,178.71B,2.20%,"4,687,011",56.12B
-9,RY,Royal Bank of Canada,171.73B,1.91%,"1,804,455",40.91B
+9,RY,Royal Bank of Canada,175.00B,1.91%,"1,804,455",40.91B
 10,GS,"The Goldman Sachs Group, Inc.",170.95B,2.50%,"1,948,398",48.90B
 11,SPGI,S&P Global Inc.,163.33B,1.34%,"647,101",13.28B
 12,HSBC,HSBC Holdings plc,157.66B,0.16%,"771,412",58.56B
@@ -27,8 +27,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 26,ICE,"Intercontinental Exchange, Inc.",93.34B,1.20%,"2,609,381",8.81B
 27,MCO,Moody's Corporation,86.52B,1.22%,"343,677",6.56B
 28,SMFG,"Sumitomo Mitsui Financial Group, Inc.",83.34B,3.64%,"1,764,900",23.34B
-29,PYPL,"PayPal Holdings, Inc.",82.31B,1.94%,"7,650,941",31.03B
-30,BN,Brookfield Corporation,81.88B,1.00%,"1,082,980",97.67B
+29,BN,Brookfield Corporation,82.66B,1.00%,"1,082,980",97.67B
+30,PYPL,"PayPal Holdings, Inc.",82.31B,1.94%,"7,650,941",31.03B
 31,APO,"Apollo Global Management, Inc.",79.85B,1.66%,"2,697,959",25.96B
 32,CME,CME Group Inc.,79.84B,0.21%,"1,122,136",5.79B
 33,AON,Aon plc,77.15B,0.42%,"584,716",14.16B
@@ -65,14 +65,14 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 64,DFS,Discover Financial Services,36.61B,2.87%,"846,466",11.14B
 65,DB,Deutsche Bank Aktiengesellschaft,34.60B,1.02%,"1,128,050",29.48B
 66,HIG,"The Hartford Financial Services Group, Inc.",34.39B,0.90%,"1,224,439",25.50B
-67,SLF,Sun Life Financial Inc.,33.02B,-0.03%,"223,411",23.34B
+67,SLF,Sun Life Financial Inc.,33.01B,-0.03%,"223,411",23.34B
 68,ARES,Ares Management Corporation,32.69B,2.62%,"1,196,329",3.22B
 69,MTB,M&T Bank Corporation,30.93B,3.41%,"969,458",8.47B
 70,BRO,"Brown & Brown, Inc.",29.88B,1.04%,"738,972",4.45B
 71,FITB,Fifth Third Bancorp,29.64B,2.74%,"4,162,387",8.13B
 72,WTW,Willis Towers Watson Public Limited Company,29.45B,-0.07%,"603,239",9.69B
 73,FCNCA,"First Citizens BancShares, Inc.",29.24B,1.22%,"69,778",9.44B
-74,FCNCO,"First Citizens BancShares, Inc.",28.64B,0.45%,"11,616",9.44B
+74,FCNCO,"First Citizens BancShares, Inc.",28.99B,0.45%,"11,616",9.44B
 75,TW,Tradeweb Markets Inc.,28.45B,0.23%,"529,216",1.51B
 76,ERIE,Erie Indemnity Company,27.96B,0.99%,"63,215",3.55B
 77,STT,State Street Corporation,26.83B,0.55%,"2,793,338",12.01B
@@ -94,8 +94,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 93,TRU,TransUnion,20.54B,0.63%,"1,196,208",3.99B
 94,MKL,Markel Group Inc.,20.16B,0.62%,"34,223",16.19B
 95,BAM,Brookfield Asset Management Ltd.,20.09B,1.63%,"575,008",-
-96,BSBR,Banco Santander (Brasil) S.A.,19.10B,-0.78%,"93,104",7.84B
-97,CFG,"Citizens Financial Group, Inc.",18.96B,3.17%,"3,602,667",7.23B
+96,CFG,"Citizens Financial Group, Inc.",18.96B,3.17%,"3,602,667",7.23B
+97,BSBR,Banco Santander (Brasil) S.A.,18.92B,-0.78%,"93,104",7.84B
 98,NTRS,Northern Trust Corporation,18.58B,1.19%,"896,869",7.61B
 99,LPLA,LPL Financial Holdings Inc.,18.55B,1.94%,"684,874",10.93B
 100,CRBG,"Corebridge Financial, Inc.",17.96B,1.20%,"2,959,774",18.41B
@@ -106,7 +106,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 105,FNF,"Fidelity National Financial, Inc.",16.54B,2.68%,"942,171",12.71B
 106,IBKR,"Interactive Brokers Group, Inc.",16.45B,1.69%,"853,220",4.77B
 107,KEY,KeyCorp,15.98B,2.26%,"8,894,334",5.74B
-108,NMR,"Nomura Holdings, Inc.",15.72B,-0.19%,"345,450",10.37B
+108,NMR,"Nomura Holdings, Inc.",15.66B,-0.19%,"345,450",10.37B
 109,FUTU,Futu Holdings Limited,15.31B,3.59%,"6,098,419",1.22B
 110,BAP,Credicorp Ltd.,14.83B,0.84%,"220,205",4.36B
 111,MORN,"Morningstar, Inc.",14.57B,1.79%,"145,489",2.17B
@@ -127,7 +127,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 126,BEN,"Franklin Resources, Inc.",10.52B,-0.45%,"4,448,127",8.25B
 127,MKTX,MarketAxess Holdings Inc.,10.50B,0.60%,"218,554",777.51M
 128,EVR,Evercore Inc.,10.18B,5.03%,"450,455",2.62B
-129,AEG,Aegon Ltd.,10.09B,0.81%,"2,009,870",13.64B
+129,AEG,Aegon Ltd.,10.17B,0.81%,"2,009,870",13.64B
 130,SF,Stifel Financial Corp.,9.99B,1.65%,"336,130",4.55B
 131,AIZ,"Assurant, Inc.",9.94B,0.82%,"379,111",11.56B
 132,GL,Globe Life Inc.,9.68B,1.27%,"422,004",5.66B
@@ -242,8 +242,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 241,CATY,Cathay General Bancorp,3.18B,3.35%,"183,205",735.21M
 242,HTGC,"Hercules Capital, Inc.",3.14B,-0.56%,"853,750",485.91M
 243,CBU,"Community Financial System, Inc.",3.14B,3.41%,"163,944",697.60M
-244,GNW,"Genworth Financial, Inc.",3.10B,1.13%,"1,711,270",7.37B
-245,IFS,Intercorp Financial Services Inc.,3.09B,1.52%,"75,883",994.34M
+244,IFS,Intercorp Financial Services Inc.,3.14B,1.52%,"75,883",994.34M
+245,GNW,"Genworth Financial, Inc.",3.10B,1.13%,"1,711,270",7.37B
 246,APAM,Artisan Partners Asset Management Inc.,3.03B,2.36%,"344,441",1.03B
 247,FHB,"First Hawaiian, Inc.",3.01B,2.79%,"415,746",802.87M
 248,WSFS,WSFS Financial Corporation,3.01B,3.09%,"422,800",959.60M
@@ -444,17 +444,17 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 443,HTBK,Heritage Commerce Corp,598.85M,2.09%,"608,396",174.59M
 444,HAFC,Hanmi Financial Corporation,598.43M,3.11%,"165,826",237.49M
 445,HTBI,"HomeTrust Bancshares, Inc.",593.07M,2.86%,"29,455",187.18M
-446,CRD.B,Crawford & Company,592.00M,2.38%,"8,308",1.24B
-447,CCBG,"Capital City Bank Group, Inc.",587.20M,3.15%,"15,917",221.12M
-448,CRD.A,Crawford & Company,578.83M,1.87%,"43,914",1.24B
-449,MOFG,"MidWestOne Financial Group, Inc.",569.41M,4.01%,"87,675",173.96M
-450,YRD,Yiren Digital Ltd.,564.21M,4.17%,"206,951",751.31M
-451,FFWM,First Foundation Inc.,560.77M,5.73%,"602,347",230.71M
+446,FFWM,First Foundation Inc.,592.88M,5.73%,"602,347",230.71M
+447,CRD.B,Crawford & Company,592.00M,2.38%,"8,308",1.24B
+448,CCBG,"Capital City Bank Group, Inc.",587.20M,3.15%,"15,917",221.12M
+449,CRD.A,Crawford & Company,578.83M,1.87%,"43,914",1.24B
+450,MOFG,"MidWestOne Financial Group, Inc.",569.41M,4.01%,"87,675",173.96M
+451,YRD,Yiren Digital Ltd.,564.21M,4.17%,"206,951",751.31M
 452,SPFI,"South Plains Financial, Inc.",556.33M,3.19%,"31,866",185.14M
 453,FMNB,Farmers National Banc Corp.,555.00M,3.36%,"53,041",169.11M
 454,WASH,"Washington Trust Bancorp, Inc.",554.91M,3.57%,"112,958",189.11M
 455,LX,LexinFintech Holdings Ltd.,550.78M,8.06%,"4,650,933",1.91B
-456,HIFS,Hingham Institution for Savings,548.40M,4.88%,"9,516",54.79M
+456,HIFS,Hingham Institution for Savings,548.40M,4.88%,"9,516",58.41M
 457,HONE,"HarborOne Bancorp, Inc.",545.70M,4.53%,"155,596",164.89M
 458,UVE,"Universal Insurance Holdings, Inc.",541.47M,0.26%,"305,340",1.48B
 459,AMBC,"Ambac Financial Group, Inc.",533.71M,1.63%,"354,287",338.00M
@@ -518,24 +518,24 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 517,SLQT,"SelectQuote, Inc.",384.08M,5.16%,"543,391",1.32B
 518,FRBA,First Bank,377.46M,3.24%,"23,096",114.58M
 519,HRZN,Horizon Technology Finance Corporation,377.18M,-2.06%,"642,063",109.13M
-520,BSVN,Bank7 Corp.,373.60M,6.69%,"74,449",85.88M
-521,FMAO,"Farmers & Merchants Bancorp, Inc.",370.95M,4.94%,"12,915",95.41M
-522,TCBX,"Third Coast Bancshares, Inc.",368.87M,2.74%,"24,195",151.61M
-523,VBNK,VersaBank,368.77M,4.91%,"68,647",82.40M
-524,WALD,Waldencast plc,367.22M,-,"40,019",240.38M
-525,CCIX,Churchill Capital Corp IX,366.99M,-0.20%,"7,232",-
-526,ACNB,ACNB Corporation,363.53M,1.62%,"13,230",106.71M
-527,SCM,Stellus Capital Investment Corporation,362.71M,-,"82,195",107.81M
-528,FBIZ,"First Business Financial Services, Inc.",362.39M,3.90%,"28,588",139.46M
-529,GIG,GigCapital7 Corp.,361.23M,-,"1,800",-
-530,GPAT,GP-Act III Acquisition Corp.,361.17M,-0.10%,"9,412",-
-531,MBAV,M3-Brigade Acquisition V Corp.,360.09M,0.10%,"19,128",-
-532,ALF,Centurion Acquisition Corp.,359.98M,0.17%,"5,100",-
-533,RRBI,"Red River Bancshares, Inc.",357.95M,4.15%,"2,918",104.93M
-534,HBCP,"Home Bancorp, Inc.",356.43M,3.76%,"16,174",129.84M
-535,BMRC,Bank of Marin Bancorp,352.64M,3.22%,"63,462",58.62M
-536,UNTY,"Unity Bancorp, Inc.",350.59M,6.58%,"45,161",100.81M
-537,HIVE,HIVE Digital Technologies Ltd.,350.36M,8.25%,"3,684,695",123.14M
+520,HIVE,HIVE Digital Technologies Ltd.,374.16M,8.25%,"3,684,695",123.14M
+521,BSVN,Bank7 Corp.,373.60M,6.69%,"74,449",85.88M
+522,FMAO,"Farmers & Merchants Bancorp, Inc.",370.95M,4.94%,"12,915",95.41M
+523,TCBX,"Third Coast Bancshares, Inc.",368.87M,2.74%,"24,195",151.61M
+524,VBNK,VersaBank,368.77M,4.91%,"68,647",82.40M
+525,WALD,Waldencast plc,367.22M,-,"40,019",240.38M
+526,CCIX,Churchill Capital Corp IX,366.99M,-0.20%,"7,232",-
+527,ACNB,ACNB Corporation,363.53M,1.62%,"13,230",106.71M
+528,SCM,Stellus Capital Investment Corporation,362.71M,-,"82,195",107.81M
+529,FBIZ,"First Business Financial Services, Inc.",362.39M,3.90%,"28,588",139.46M
+530,GIG,GigCapital7 Corp.,361.23M,-,"1,800",-
+531,GPAT,GP-Act III Acquisition Corp.,361.17M,-0.10%,"9,412",-
+532,MBAV,M3-Brigade Acquisition V Corp.,360.09M,0.10%,"19,128",-
+533,ALF,Centurion Acquisition Corp.,359.98M,0.17%,"5,100",-
+534,RRBI,"Red River Bancshares, Inc.",357.95M,4.15%,"2,918",104.93M
+535,HBCP,"Home Bancorp, Inc.",356.43M,3.76%,"16,174",129.84M
+536,BMRC,Bank of Marin Bancorp,352.64M,3.22%,"63,462",58.62M
+537,UNTY,"Unity Bancorp, Inc.",350.59M,6.58%,"45,161",100.81M
 538,CWBC,Community West Bancshares,348.70M,2.62%,"40,621",85.23M
 539,ALTI,"AlTi Global, Inc.",342.59M,-3.12%,"113,022",241.81M
 540,XYF,X Financial,339.15M,-2.42%,"49,196",711.46M
@@ -566,27 +566,27 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 565,HMST,"HomeStreet, Inc.",288.33M,1.33%,"39,342",180.52M
 566,USCB,"USCB Financial Holdings, Inc.",287.44M,2.16%,"14,809",66.71M
 567,GRAF,Graf Global Corp.,287.24M,-0.19%,"3,157",-
-568,HOND,HCM II Acquisition Corp.,286.64M,-0.10%,356,-
-569,CZFS,"Citizens Financial Services, Inc.",283.45M,11.20%,"23,009",98.19M
-570,PBFS,"Pioneer Bancorp, Inc.",279.54M,2.42%,"19,316",74.19M
-571,CIVB,"Civista Bancshares, Inc.",279.34M,1.60%,"19,474",147.54M
-572,LPAA,Launch One Acquisition Corp.,278.88M,-,"5,236",-
-573,COFS,"ChoiceOne Financial Services, Inc.",274.10M,4.90%,"35,972",83.14M
-574,VCIC,Vine Hill Capital Investment Corp.,273.72M,0.14%,"25,025",-
-575,CBAN,"Colony Bankcorp, Inc.",269.65M,2.27%,"23,192",109.42M
-576,WHF,"WhiteHorse Finance, Inc.",268.46M,-0.09%,"24,445",100.46M
-577,BCML,BayCom Corp,267.80M,3.55%,"9,650",97.49M
-578,SSBK,"Southern States Bancshares, Inc.",267.67M,4.60%,"9,150",80.76M
-579,TPVG,TriplePoint Venture Growth BDC Corp.,266.48M,0.45%,"188,089",123.98M
-580,PMTS,CPI Card Group Inc.,264.61M,-0.17%,"12,808",439.49M
-581,PCB,PCB Bancorp,263.66M,3.75%,"7,338",93.74M
-582,SLAM,Slam Corp.,261.27M,-0.09%,"77,569",-
-583,WSBF,"Waterstone Financial, Inc.",257.36M,4.04%,"61,974",132.56M
-584,PDLB,"Ponce Financial Group, Inc.",256.75M,3.25%,"36,976",81.74M
-585,POLE,Andretti Acquisition Corp. II,255.97M,-0.30%,"10,630",-
-586,SVII,Spring Valley Acquisition Corp. II,252.71M,0.27%,"177,901",-
-587,MVBF,MVB Financial Corp.,250.41M,2.76%,"33,945",143.78M
-588,LPBB,Launch Two Acquisition Corp.,249.50M,-0.10%,"47,075",-
+568,LPBB,Launch Two Acquisition Corp.,286.93M,-0.10%,"47,075",-
+569,HOND,HCM II Acquisition Corp.,286.35M,-0.10%,356,-
+570,CZFS,"Citizens Financial Services, Inc.",283.45M,11.20%,"23,009",98.19M
+571,PBFS,"Pioneer Bancorp, Inc.",279.54M,2.42%,"19,316",74.19M
+572,CIVB,"Civista Bancshares, Inc.",279.32M,1.60%,"19,474",147.54M
+573,LPAA,Launch One Acquisition Corp.,278.88M,-,"5,236",-
+574,COFS,"ChoiceOne Financial Services, Inc.",274.10M,4.90%,"35,972",83.14M
+575,VCIC,Vine Hill Capital Investment Corp.,273.61M,0.14%,"25,025",-
+576,CBAN,"Colony Bankcorp, Inc.",269.65M,2.27%,"23,192",109.42M
+577,WHF,"WhiteHorse Finance, Inc.",268.46M,-0.09%,"24,445",100.46M
+578,BCML,BayCom Corp,267.80M,3.55%,"9,650",97.49M
+579,SSBK,"Southern States Bancshares, Inc.",267.67M,4.60%,"9,150",80.76M
+580,TPVG,TriplePoint Venture Growth BDC Corp.,266.48M,0.45%,"188,089",123.98M
+581,PMTS,CPI Card Group Inc.,264.61M,-0.17%,"12,808",439.49M
+582,PCB,PCB Bancorp,263.66M,3.75%,"7,338",93.74M
+583,SLAM,Slam Corp.,261.27M,-0.09%,"77,569",-
+584,WSBF,"Waterstone Financial, Inc.",257.36M,4.04%,"61,974",132.56M
+585,PDLB,"Ponce Financial Group, Inc.",256.75M,3.25%,"36,976",81.74M
+586,POLE,Andretti Acquisition Corp. II,255.97M,-0.30%,"10,630",-
+587,SVII,Spring Valley Acquisition Corp. II,252.71M,0.27%,"177,901",-
+588,MVBF,MVB Financial Corp.,250.41M,2.76%,"33,945",143.78M
 589,PKBK,"Parke Bancorp, Inc.",248.65M,3.39%,"14,565",64.61M
 590,RENE,Cartesian Growth Corporation II,248.64M,-0.09%,"35,454",-
 591,HLXB,Helix Acquisition Corp. II,246.84M,0.48%,"1,863",-
@@ -957,7 +957,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 24,MU,"Micron Technology, Inc.",118.55B,1.16%,"19,043,727",25.11B
 25,ADP,"Automatic Data Processing, Inc.",117.60B,0.51%,"952,161",19.20B
 26,ADI,"Analog Devices, Inc.",115.61B,0.94%,"1,427,210",9.70B
-27,SONY,Sony Group Corporation,114.60B,0.64%,"1,530,368",81.24B
+27,SONY,Sony Group Corporation,114.11B,0.64%,"1,530,368",81.24B
 28,FI,"Fiserv, Inc.",109.59B,1.26%,"1,460,730",19.78B
 29,KLAC,KLA Corporation,107.68B,0.72%,"568,741",9.81B
 30,SHOP,Shopify Inc.,107.52B,0.64%,"3,536,012",7.76B
@@ -1008,8 +1008,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 75,FTV,Fortive Corporation,27.33B,1.01%,"748,953",6.16B
 76,HPE,Hewlett Packard Enterprise Company,26.84B,0.63%,"7,023,301",29.02B
 77,NTAP,"NetApp, Inc.",25.99B,1.56%,"889,713",6.38B
-78,BR,"Broadridge Financial Solutions, Inc.",25.80B,1.80%,"504,521",6.51B
-79,GIB,CGI Inc.,25.74B,0.80%,"102,875",10.61B
+78,GIB,CGI Inc.,25.96B,0.80%,"102,875",10.61B
+79,BR,"Broadridge Financial Solutions, Inc.",25.80B,1.80%,"504,521",6.51B
 80,TYL,"Tyler Technologies, Inc.",25.37B,1.35%,"156,400",2.03B
 81,STM,STMicroelectronics N.V.,25.19B,-,"2,498,765",15.41B
 82,ERIC,Telefonaktiebolaget LM Ericsson (publ),24.97B,0.81%,"6,194,432",23.54B
@@ -1099,9 +1099,9 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 166,SMAR,Smartsheet Inc.,7.76B,0.54%,"4,681,178",1.04B
 167,AMKR,"Amkor Technology, Inc.",7.62B,2.32%,"735,303",6.40B
 168,SPSC,"SPS Commerce, Inc.",7.46B,1.79%,"166,007",583.80M
-169,MKSI,"MKS Instruments, Inc.",7.36B,2.21%,"472,683",3.58B
-170,ZETA,Zeta Global Holdings Corp.,7.29B,1.18%,"5,802,030",822.09M
-171,CLS,Celestica Inc.,7.19B,2.96%,"3,877,534",8.78B
+169,CLS,Celestica Inc.,7.40B,2.96%,"3,877,534",8.78B
+170,MKSI,"MKS Instruments, Inc.",7.36B,2.21%,"472,683",3.58B
+171,ZETA,Zeta Global Holdings Corp.,7.29B,1.18%,"5,802,030",822.09M
 172,RBRK,"Rubrik, Inc.",7.18B,2.14%,"3,312,665",732.88M
 173,CFLT,"Confluent, Inc.",7.17B,-0.49%,"3,201,570",865.59M
 174,LSCC,Lattice Semiconductor Corporation,7.17B,1.48%,"1,770,003",627.66M
@@ -1266,12 +1266,12 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 333,PLAB,"Photronics, Inc.",1.53B,1.77%,"250,997",871.79M
 334,RUM,Rumble Inc.,1.53B,1.89%,"797,318",78.58M
 335,MTTR,"Matterport, Inc.",1.53B,1.27%,"1,219,035",162.28M
-336,CTS,CTS Corporation,1.47B,1.64%,"131,328",515.16M
-337,DAVA,Endava plc,1.46B,4.13%,"549,142",936.16M
-338,WOLF,"Wolfspeed, Inc.",1.46B,20.84%,"19,573,393",807.20M
-339,VRNT,Verint Systems Inc.,1.45B,1.30%,"754,773",915.10M
-340,WBTN,WEBTOON Entertainment Inc.,1.44B,-1.84%,"319,880",1.30B
-341,BB,BlackBerry Limited,1.43B,2.89%,"7,637,864",637.00M
+336,BB,BlackBerry Limited,1.47B,2.89%,"7,637,864",637.00M
+337,CTS,CTS Corporation,1.47B,1.64%,"131,328",515.16M
+338,DAVA,Endava plc,1.46B,4.13%,"549,142",936.16M
+339,WOLF,"Wolfspeed, Inc.",1.46B,20.84%,"19,573,393",807.20M
+340,VRNT,Verint Systems Inc.,1.45B,1.30%,"754,773",915.10M
+341,WBTN,WEBTOON Entertainment Inc.,1.44B,-1.84%,"319,880",1.30B
 342,TWKS,"Thoughtworks Holding, Inc.",1.43B,0.45%,"10,154,547",1.03B
 343,SONO,"Sonos, Inc.",1.43B,-0.76%,"1,229,083",1.57B
 344,VSAT,"Viasat, Inc.",1.39B,2.25%,"2,184,285",4.63B
@@ -1280,10 +1280,10 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 347,ZUO,"Zuora, Inc.",1.36B,-,"860,954",445.68M
 348,DQ,Daqo New Energy Corp.,1.35B,2.50%,"1,006,038",1.60B
 349,KARO,Karooooo Ltd.,1.35B,10.21%,"66,035",227.97M
-350,ACMR,"ACM Research, Inc.",1.33B,2.65%,"995,504",693.56M
-351,PSFE,Paysafe Limited,1.32B,2.45%,"148,628",1.67B
-352,VTEX,VTEX,1.32B,-1.38%,"278,392",220.54M
-353,DCBO,Docebo Inc.,1.31B,2.23%,"28,292",200.24M
+350,DCBO,Docebo Inc.,1.34B,2.23%,"28,292",200.24M
+351,ACMR,"ACM Research, Inc.",1.33B,2.65%,"995,504",693.56M
+352,PSFE,Paysafe Limited,1.32B,2.45%,"148,628",1.67B
+353,VTEX,VTEX,1.32B,-1.38%,"278,392",220.54M
 354,BELFA,Bel Fuse Inc.,1.30B,2.68%,"12,126",559.99M
 355,COMM,"CommScope Holding Company, Inc.",1.30B,-0.66%,"4,186,544",5.09B
 356,SABR,Sabre Corporation,1.30B,1.82%,"2,752,378",2.98B
@@ -1591,9 +1591,9 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 658,SWVL,Swvl Holdings Corp.,27.09M,2.95%,"9,172",22.85M
 659,DUOT,"Duos Technologies Group, Inc.",26.83M,6.71%,"41,237",5.64M
 660,VHC,VirnetX Holding Corporation,26.67M,0.56%,"1,499",6.00K
-661,MOGO,Mogo Inc.,26.47M,-,"20,462",30.11M
-662,AIFF,"Firefly Neuroscience, Inc.",26.25M,-0.32%,"23,274",64.00K
-663,AXIL,"AXIL Brands, Inc.",26.22M,-4.65%,"8,370",27.24M
+661,AXIL,"AXIL Brands, Inc.",26.51M,-4.65%,"8,370",27.24M
+662,MOGO,Mogo Inc.,26.47M,-,"20,462",30.11M
+663,AIFF,"Firefly Neuroscience, Inc.",26.25M,-0.32%,"23,274",64.00K
 664,UTSI,UTStarcom Holdings Corp.,26.14M,1.84%,"1,259",14.96M
 665,DTST,Data Storage Corporation,26.09M,3.61%,"26,139",25.32M
 666,BTCM,BIT Mining Limited,25.63M,2.78%,"30,235",41.41M
@@ -1742,8 +1742,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 31,TCOM,Trip.com Group Limited,42.34B,1.90%,"3,740,251",6.71B
 32,FLUT,Flutter Entertainment plc,39.01B,-8.78%,"5,721,337",12.88B
 33,LVS,Las Vegas Sands Corp.,38.93B,1.65%,"4,729,468",11.43B
-34,STLA,Stellantis N.V.,38.22B,-2.18%,"13,724,423",188.78B
-35,YUM,"Yum! Brands, Inc.",37.68B,0.56%,"937,498",7.11B
+34,YUM,"Yum! Brands, Inc.",37.68B,0.56%,"937,498",7.11B
+35,STLA,Stellantis N.V.,37.24B,-2.18%,"13,724,423",188.78B
 36,LULU,Lululemon Athletica Inc.,34.16B,1.71%,"1,472,161",9.99B
 37,TSCO,Tractor Supply Company,32.72B,2.03%,"532,218",14.71B
 38,EBAY,eBay Inc.,32.44B,0.42%,"3,223,685",10.19B
@@ -1788,7 +1788,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 77,CHWY,"Chewy, Inc.",12.17B,-1.42%,"4,094,802",11.31B
 78,MGM,MGM Resorts International,12.05B,0.18%,"1,669,936",17.01B
 79,FND,"Floor & Decor Holdings, Inc.",11.98B,-0.54%,"647,609",4.39B
-80,MGA,Magna International Inc.,11.85B,0.32%,"712,412",43.07B
+80,MGA,Magna International Inc.,11.90B,0.32%,"712,412",43.07B
 81,WING,Wingstop Inc.,11.83B,2.23%,"213,764",545.65M
 82,TXRH,"Texas Roadhouse, Inc.",11.72B,0.95%,"523,245",4.95B
 83,WYNN,"Wynn Resorts, Limited",11.52B,1.01%,"2,394,483",7.11B
@@ -2153,17 +2153,17 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 442,CPHC,Canterbury Park Holding Corporation,94.65M,-,133,62.10M
 443,TDUP,ThredUp Inc.,92.16M,10.16%,"158,615",322.79M
 444,RRGB,"Red Robin Gourmet Burgers, Inc.",85.07M,-1.82%,"656,126",1.28B
-445,FAT,FAT Brands Inc.,84.73M,3.53%,"27,639",572.01M
-446,SUP,"Superior Industries International, Inc.",84.35M,2.10%,"75,413",1.27B
-447,GOEV,Canoo Inc.,83.58M,3.96%,"2,363,322",1.49M
-448,GAN,GAN Limited,83.22M,-,"204,111",126.74M
-449,DTC,"Solo Brands, Inc.",83.14M,6.77%,"228,626",492.52M
-450,BIRD,"Allbirds, Inc.",83.05M,0.38%,"20,364",220.14M
-451,FATBB,FAT Brands Inc.,82.37M,-12.11%,"41,281",572.01M
+445,FATBB,FAT Brands Inc.,84.77M,-12.11%,"41,281",572.01M
+446,FAT,FAT Brands Inc.,84.73M,3.53%,"27,639",572.01M
+447,SUP,"Superior Industries International, Inc.",84.35M,2.10%,"75,413",1.27B
+448,GOEV,Canoo Inc.,83.58M,3.96%,"2,363,322",1.49M
+449,GAN,GAN Limited,83.22M,-,"204,111",126.74M
+450,DTC,"Solo Brands, Inc.",83.14M,6.77%,"228,626",492.52M
+451,BIRD,"Allbirds, Inc.",83.05M,0.38%,"20,364",220.14M
 452,CNTY,"Century Casinos, Inc.",81.62M,-3.27%,"50,153",587.39M
 453,WPRT,Westport Fuel Systems Inc.,74.67M,-0.23%,"26,174",325.50M
 454,CULP,"Culp, Inc.",74.19M,1.71%,"5,460",225.21M
-455,PC,Premium Catering (Holdings) Limited,68.48M,-3.02%,"13,708",4.12M
+455,PC,Premium Catering (Holdings) Limited,68.48M,-7.56%,"21,473",4.12M
 456,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",66.76M,3.23%,"9,542",327.30M
 457,NHTC,Natural Health Trends Corp.,65.38M,0.18%,"19,394",42.98M
 458,FOSL,"Fossil Group, Inc.",63.23M,1.71%,"223,488",1.28B
@@ -2297,7 +2297,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 13,CHTR,"Charter Communications, Inc.",46.54B,-0.83%,"494,448",54.66B
 14,EA,Electronic Arts Inc.,37.84B,0.89%,"1,451,385",7.30B
 15,BIDU,"Baidu, Inc.",36.40B,-0.26%,"3,433,309",18.56B
-16,BCE,BCE Inc.,29.95B,0.49%,"2,616,790",17.95B
+16,BCE,BCE Inc.,30.11B,0.49%,"2,616,790",17.95B
 17,CHT,"Chunghwa Telecom Co., Ltd.",29.49B,-0.21%,"183,881",6.91B
 18,ORAN,Orange S.A.,29.24B,-0.63%,"510,589",47.80B
 19,TTWO,"Take-Two Interactive Software, Inc.",27.18B,1.04%,"1,287,415",5.40B
@@ -2314,10 +2314,10 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 30,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,18.69B,0.69%,"130,396",9.24B
 31,FWONK,Formula One Group,18.62B,2.01%,"1,000,718",3.69B
 32,SNAP,Snap Inc.,18.47B,4.41%,"17,288,614",4.98B
-33,WBD,"Warner Bros. Discovery, Inc.",18.44B,-0.27%,"18,885,741",39.93B
-34,FWONA,Formula One Group,18.09B,1.91%,"65,249",3.69B
+33,FWONA,Formula One Group,18.44B,1.91%,"65,249",3.69B
+34,WBD,"Warner Bros. Discovery, Inc.",18.44B,-0.27%,"18,885,741",39.93B
 35,WMG,Warner Music Group Corp.,16.13B,0.45%,"456,969",6.38B
-36,VIV,Telefônica Brasil S.A.,15.87B,-3.00%,"601,312",9.70B
+36,VIV,Telefônica Brasil S.A.,15.40B,-3.00%,"601,312",9.70B
 37,NWSA,News Corporation,14.76B,0.97%,"1,792,947",10.09B
 38,Z,"Zillow Group, Inc.",13.92B,3.55%,"2,429,036",2.07B
 39,RDDT,"Reddit, Inc.",12.15B,4.79%,"5,072,219",981.41M
@@ -2336,8 +2336,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 52,SIRI,Sirius XM Holdings Inc.,8.45B,2.59%,"5,374,395",8.90B
 53,LBTYK,Liberty Global Ltd.,7.70B,-1.30%,"1,031,452",7.59B
 54,BZ,Kanzhun Limited,7.48B,0.35%,"2,312,351",936.76M
-55,TIMB,TIM S.A.,7.45B,-1.75%,"578,627",4.45B
-56,KT,KT Corporation,7.32B,1.20%,"1,049,087",19.23B
+55,KT,KT Corporation,7.32B,1.20%,"1,049,087",19.23B
+56,TIMB,TIM S.A.,7.30B,-1.75%,"578,627",4.45B
 57,PARA,Paramount Global,6.90B,0.10%,"4,329,964",29.27B
 58,LUMN,"Lumen Technologies, Inc.",6.30B,-1.27%,"7,911,742",13.72B
 59,PHI,PLDT Inc.,5.70B,0.38%,"49,188",3.67B
@@ -2346,8 +2346,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 62,MSGS,Madison Square Garden Sports Corp.,5.18B,1.44%,"48,460",1.03B
 63,DJT,Trump Media & Technology Group Corp.,4.92B,4.81%,"47,728,661",3.43M
 64,LLYVK,Liberty Live Group,4.92B,1.42%,"218,288",-
-65,USM,United States Cellular Corporation,4.82B,1.96%,"69,879",3.84B
-66,LLYVA,Liberty Live Group,4.81B,1.60%,"118,071",-
+65,LLYVA,Liberty Live Group,4.88B,1.60%,"118,071",-
+66,USM,United States Cellular Corporation,4.82B,1.96%,"69,879",3.84B
 67,TIGO,Millicom International Cellular S.A.,4.59B,0.94%,"71,503",5.84B
 68,IAC,IAC Inc.,4.55B,1.58%,"228,293",4.05B
 69,TEO,Telecom Argentina S.A.,4.17B,-0.88%,"86,559",1.98B
@@ -2382,9 +2382,9 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 98,AMC,"AMC Entertainment Holdings, Inc.",1.51B,-0.48%,"4,439,353",4.49B
 99,OPRA,Opera Limited,1.39B,5.76%,"579,065",427.25M
 100,UPWK,Upwork Inc.,1.38B,0.29%,"1,113,197",743.73M
-101,TV,"Grupo Televisa, S.A.B.",1.31B,0.41%,"818,589",3.94B
-102,PLAY,"Dave & Buster's Entertainment, Inc.",1.30B,2.92%,"1,177,151",2.21B
-103,MOMO,Hello Group Inc.,1.30B,1.51%,"665,858",1.55B
+101,PLAY,"Dave & Buster's Entertainment, Inc.",1.30B,2.92%,"1,177,151",2.21B
+102,MOMO,Hello Group Inc.,1.30B,1.51%,"665,858",1.55B
+103,TV,"Grupo Televisa, S.A.B.",1.30B,0.41%,"818,589",3.94B
 104,ANGI,Angi Inc.,1.28B,4.05%,"260,281",1.27B
 105,IDT,IDT Corporation,1.21B,0.06%,"204,671",1.21B
 106,SBGI,"Sinclair, Inc.",1.17B,6.12%,"435,170",3.22B
@@ -2422,8 +2422,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 138,FUBO,fuboTV Inc.,533.53M,5.88%,"13,708,683",1.52B
 139,SEAT,Vivid Seats Inc.,514.25M,3.45%,"777,763",775.60M
 140,MCS,The Marcus Corporation,512.20M,2.98%,"335,957",646.73M
-141,SOHU,Sohu.com Limited,509.56M,0.25%,"64,072",598.51M
-142,NEXN,Nexxen International Ltd.,501.08M,2.30%,"73,991",339.02M
+141,NEXN,Nexxen International Ltd.,510.99M,2.30%,"73,991",339.02M
+142,SOHU,Sohu.com Limited,509.56M,0.25%,"64,072",598.51M
 143,ATNI,"ATN International, Inc.",481.23M,0.06%,"30,595",760.08M
 144,GRPN,"Groupon, Inc.",424.05M,1.04%,"1,153,328",511.89M
 145,WOW,"WideOpenWest, Inc.",420.47M,0.20%,"447,883",662.20M
@@ -2534,8 +2534,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 4,TTE,TotalEnergies SE,155.99B,-0.26%,"1,759,153",210.24B
 5,COP,ConocoPhillips,128.31B,-1.22%,"6,703,131",58.08B
 6,PBR.A,Petróleo Brasileiro S.A. - Petrobras,92.04B,-1.19%,"4,912,684",89.90B
-7,PBR,Petróleo Brasileiro S.A. - Petrobras,92.04B,-0.94%,"9,374,487",89.90B
-8,ENB,Enbridge Inc.,88.97B,0.46%,"2,271,104",31.79B
+7,PBR,Petróleo Brasileiro S.A. - Petrobras,91.12B,-0.94%,"9,374,487",89.90B
+8,ENB,Enbridge Inc.,89.43B,0.46%,"2,271,104",31.79B
 9,BP,BP p.l.c.,79.20B,-0.71%,"7,431,163",199.76B
 10,CNQ,Canadian Natural Resources Limited,79.07B,0.40%,"4,409,369",26.85B
 11,EOG,"EOG Resources, Inc.",75.31B,0.20%,"1,052,046",24.11B
@@ -2560,17 +2560,17 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 30,IMO,Imperial Oil Limited,41.09B,-0.51%,"317,407",38.34B
 31,BKR,Baker Hughes Company,37.45B,0.24%,"4,478,575",27.03B
 32,TRGP,Targa Resources Corp.,36.31B,1.99%,"2,264,449",16.26B
-33,WDS,Woodside Energy Group Ltd,33.04B,-0.17%,"730,837",12.58B
+33,WDS,Woodside Energy Group Ltd,33.18B,-0.17%,"730,837",12.58B
 34,CVE,Cenovus Energy Inc.,32.74B,-0.06%,"5,043,969",40.91B
 35,DVN,Devon Energy Corporation,28.28B,0.23%,"5,152,178",14.75B
 36,HAL,Halliburton Company,27.21B,0.29%,"3,453,747",23.18B
-37,PBA,Pembina Pipeline Corporation,24.56B,0.83%,"838,965",6.93B
+37,PBA,Pembina Pipeline Corporation,24.78B,0.83%,"838,965",6.93B
 38,TPL,Texas Pacific Land Corporation,24.32B,5.61%,"147,504",671.10M
 39,CQP,"Cheniere Energy Partners, L.P.",24.28B,-1.26%,"73,574",9.00B
-40,EQT,EQT Corporation,22.22B,2.16%,"5,046,658",4.43B
-41,CCJ,Cameco Corporation,21.95B,1.70%,"2,426,167",1.94B
+40,CCJ,Cameco Corporation,22.32B,1.70%,"2,426,167",1.94B
+41,EQT,EQT Corporation,22.22B,2.16%,"5,046,658",4.43B
 42,CTRA,Coterra Energy Inc.,18.40B,1.55%,"2,602,019",5.57B
-43,EC,Ecopetrol S.A.,17.97B,-0.79%,"1,831,552",32.36B
+43,EC,Ecopetrol S.A.,18.22B,-0.79%,"1,831,552",32.36B
 44,TS,Tenaris S.A.,17.93B,0.34%,"538,812",13.42B
 45,MRO,Marathon Oil Corporation,15.70B,-0.95%,"4,399,486",6.59B
 46,WES,"Western Midstream Partners, LP",15.14B,0.94%,"383,708",3.43B
@@ -2673,7 +2673,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 143,NVGS,Navigator Holdings Ltd.,1.13B,0.37%,"135,066",560.23M
 144,MRC,MRC Global Inc.,1.10B,1.65%,"140,834",3.29B
 145,VTLE,"Vital Energy, Inc.",1.08B,-0.07%,"982,128",1.84B
-146,UUUU,Energy Fuels Inc.,1.05B,2.04%,"1,882,408",45.60M
+146,UUUU,Energy Fuels Inc.,1.07B,2.41%,"1,882,408",45.60M
 147,PARR,"Par Pacific Holdings, Inc.",1.03B,2.24%,"532,104",8.76B
 148,INVX,"Innovex International, Inc.",1.02B,0.66%,"134,857",530.58M
 149,VTOL,Bristow Group Inc.,1.01B,2.30%,"42,547",1.34B
@@ -2685,14 +2685,14 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 155,LB,LandBridge Company LLC,854.17M,4.32%,"270,700",80.22M
 156,TK,Teekay Corporation Ltd.,842.14M,-0.97%,"728,798",1.34B
 157,CAPL,CrossAmerica Partners LP,835.89M,0.55%,"15,460",4.00B
-158,EFXT,Enerflex Ltd.,814.19M,0.46%,"151,549",2.37B
+158,EFXT,Enerflex Ltd.,816.99M,0.46%,"151,549",2.37B
 159,GRNT,"Granite Ridge Resources, Inc.",813.23M,0.97%,"178,975",371.05M
 160,NAT,Nordic American Tankers Limited,764.19M,-0.27%,"1,238,406",364.25M
 161,NBR,Nabors Industries Ltd.,763.51M,3.83%,"167,043",2.93B
-162,VTS,"Vitesse Energy, Inc.",757.98M,-,"178,982",229.47M
-163,TXO,"TXO Partners, L.P.",749.83M,0.36%,"35,299",286.59M
-164,TEN,Tsakos Energy Navigation Limited,748.56M,0.79%,"173,050",822.54M
-165,EU,enCore Energy Corp.,715.34M,4.08%,"827,114",35.71M
+162,EU,enCore Energy Corp.,761.74M,4.08%,"827,114",35.71M
+163,VTS,"Vitesse Energy, Inc.",757.98M,-,"178,982",229.47M
+164,TXO,"TXO Partners, L.P.",749.83M,0.36%,"35,299",286.59M
+165,TEN,Tsakos Energy Navigation Limited,748.56M,0.79%,"173,050",822.54M
 166,CLNE,Clean Energy Fuels Corp.,650.17M,4.30%,"2,154,347",404.09M
 167,EGY,"VAALCO Energy, Inc.",649.43M,1.13%,"709,651",482.36M
 168,REPX,"Riley Exploration Permian, Inc.",640.79M,3.99%,"114,372",413.27M
@@ -2703,25 +2703,25 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 173,DEC,Diversified Energy Company PLC,581.27M,1.09%,"151,808",699.47M
 174,PBT,Permian Basin Royalty Trust,564.43M,6.41%,"147,884",32.66M
 175,GFR,Greenfire Resources Ltd.,550.96M,0.13%,"90,644",521.31M
-176,NOA,North American Construction Group Ltd.,503.95M,0.85%,"28,252",797.17M
+176,NOA,North American Construction Group Ltd.,508.91M,0.85%,"28,252",797.17M
 177,OBE,Obsidian Energy Ltd.,470.97M,0.96%,"227,994",499.62M
 178,SD,"SandRidge Energy, Inc.",459.27M,-,"198,847",128.34M
 179,TTI,"TETRA Technologies, Inc.",453.50M,0.29%,"1,136,875",627.50M
 180,HNRG,Hallador Energy Company,442.59M,5.27%,"403,816",485.54M
 181,GPRK,GeoPark Limited,428.23M,-3.24%,"181,454",749.47M
-182,URG,Ur-Energy Inc.,423.96M,0.85%,"2,651,675",15.85M
-183,SEI,"Solaris Energy Infrastructure, Inc.",423.42M,3.33%,"184,845",274.80M
+182,SEI,"Solaris Energy Infrastructure, Inc.",423.42M,3.33%,"184,845",274.80M
+183,URG,Ur-Energy Inc.,420.91M,0.85%,"2,651,675",15.85M
 184,BRY,Berry Corporation,417.01M,-,"720,423",844.47M
 185,SGU,"Star Group, L.P.",399.30M,1.23%,"20,101",1.79B
 186,SMC,Summit Midstream Corporation,384.95M,0.67%,"58,021",469.64M
 187,REI,"Ring Energy, Inc.",332.93M,1.82%,"1,544,588",369.50M
 188,WTI,"W&T Offshore, Inc.",329.69M,-,"1,868,504",558.29M
 189,OIS,"Oil States International, Inc.",312.56M,1.03%,"585,785",756.20M
-190,UROY,Uranium Royalty Corp.,308.23M,1.19%,"814,639",30.92M
+190,UROY,Uranium Royalty Corp.,310.58M,1.19%,"814,639",30.92M
 191,PNRG,PrimeEnergy Resources Corporation,280.58M,-2.81%,"6,552",178.71M
 192,AMPY,Amplify Energy Corp.,279.79M,2.03%,"245,352",311.56M
 193,RNGR,"Ranger Energy Services, Inc.",274.67M,0.65%,"52,032",590.90M
-194,TBN,Tamboran Resources Corporation,267.91M,3.88%,"15,422",-
+194,TBN,Tamboran Resources Corporation,269.05M,3.88%,"15,422",-
 195,NGS,"Natural Gas Services Group, Inc.",256.69M,1.88%,"19,442",142.99M
 196,GTE,Gran Tierra Energy Inc.,202.60M,0.61%,"170,071",658.05M
 197,NC,"NACCO Industries, Inc.",198.83M,0.71%,"16,948",208.94M
@@ -2780,13 +2780,13 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 4,KO,The Coca-Cola Company,299.84B,0.46%,"5,790,909",46.47B
 5,PEP,"PepsiCo, Inc.",239.84B,1.05%,"4,706,546",91.92B
 6,PM,Philip Morris International Inc.,186.73B,0.59%,"1,690,734",36.45B
-7,UL,Unilever PLC,154.89B,0.63%,"943,967",64.60B
+7,UL,Unilever PLC,155.91B,0.63%,"943,967",64.60B
 8,BUD,Anheuser-Busch InBev SA/NV,128.21B,1.22%,"1,888,610",59.93B
 9,MDLZ,"Mondelez International, Inc.",94.39B,-0.67%,"4,322,205",35.98B
 10,MO,"Altria Group, Inc.",85.04B,0.32%,"3,620,204",20.30B
 11,CL,Colgate-Palmolive Company,81.79B,0.87%,"3,421,123",19.99B
 12,BTI,British American Tobacco p.l.c.,77.49B,0.20%,"3,544,157",33.09B
-13,DEO,Diageo plc,73.73B,0.42%,"351,343",20.27B
+13,DEO,Diageo plc,74.14B,0.42%,"351,343",20.27B
 14,TGT,Target Corporation,73.00B,1.60%,"2,624,562",107.30B
 15,MNST,Monster Beverage Corporation,50.26B,1.06%,"7,123,330",7.39B
 16,KDP,Keurig Dr Pepper Inc.,49.33B,-0.36%,"4,628,030",15.06B
@@ -2797,8 +2797,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 21,KR,The Kroger Co.,40.05B,0.27%,"1,604,950",150.20B
 22,GIS,"General Mills, Inc.",39.31B,-0.69%,"1,920,255",19.80B
 23,HSY,The Hershey Company,37.62B,-0.85%,"1,143,808",11.01B
-24,ABEV,Ambev S.A.,36.92B,-2.12%,"16,884,402",14.52B
-25,SYY,Sysco Corporation,36.56B,0.84%,"3,206,505",78.84B
+24,SYY,Sysco Corporation,36.56B,0.84%,"3,206,505",78.84B
+25,ABEV,Ambev S.A.,35.96B,-2.12%,"16,884,402",14.52B
 26,CCEP,Coca-Cola Europacific Partners PLC,35.83B,0.39%,"579,998",20.52B
 27,EL,The Estée Lauder Companies Inc.,34.47B,1.22%,"2,315,641",15.61B
 28,FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",31.24B,0.16%,"221,034",40.60B
@@ -2844,8 +2844,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 68,FLO,"Flowers Foods, Inc.",4.74B,0.13%,"433,190",5.13B
 69,CALM,"Cal-Maine Foods, Inc.",4.44B,1.06%,"544,954",2.65B
 70,FIZZ,National Beverage Corp.,4.23B,1.14%,"106,201",1.20B
-71,HIMS,"Hims & Hers Health, Inc.",4.05B,4.71%,"7,975,186",1.07B
-72,PRMW,Primo Water Corporation,4.03B,2.74%,"918,108",1.85B
+71,PRMW,Primo Water Corporation,4.14B,2.74%,"918,108",1.85B
+72,HIMS,"Hims & Hers Health, Inc.",4.05B,4.71%,"7,975,186",1.07B
 73,IPAR,"Inter Parfums, Inc.",3.98B,1.46%,"101,504",1.36B
 74,LOPE,"Grand Canyon Education, Inc.",3.88B,1.20%,"95,129",1.00B
 75,TBBB,BBB Foods Inc.,3.68B,2.72%,"528,292",2.74B
@@ -2858,7 +2858,7 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 82,NOMD,Nomad Foods Limited,2.86B,-0.28%,"337,840",3.28B
 83,ATGE,Adtalem Global Education Inc.,2.76B,1.08%,"134,725",1.58B
 84,PSMT,"PriceSmart, Inc.",2.76B,0.05%,"96,939",4.81B
-85,AKO.A,Embotelladora Andina S.A.,2.59B,-2.00%,"8,163",2.95B
+85,AKO.A,Embotelladora Andina S.A.,2.60B,-2.00%,"8,163",2.95B
 86,AKO.B,Embotelladora Andina S.A.,2.59B,2.29%,"17,269",2.95B
 87,SPB,"Spectrum Brands Holdings, Inc.",2.54B,1.37%,"226,994",2.93B
 88,LAUR,"Laureate Education, Inc.",2.34B,-1.54%,"313,281",1.55B
@@ -2914,8 +2914,8 @@ No.,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
 138,LMNR,Limoneira Company,493.72M,1.67%,"17,286",189.08M
 139,OTLY,Oatly Group AB,477.85M,3.83%,"2,524,423",793.07M
 140,VLGEA,"Village Super Market, Inc.",454.11M,0.62%,"10,415",2.24B
-141,LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,441.13M,-0.45%,"51,445",183.64M
-142,SENEA,Seneca Foods Corporation,440.44M,1.08%,"13,716",1.46B
+141,SENEA,Seneca Foods Corporation,440.44M,1.08%,"13,716",1.46B
+142,LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,437.51M,-0.45%,"51,445",183.64M
 143,SENEB,Seneca Foods Corporation,433.39M,-4.58%,421,1.46B
 144,BYND,"Beyond Meat, Inc.",428.60M,3.45%,"1,660,806",317.78M
 145,LWAY,"Lifeway Foods, Inc.",393.88M,-,"64,653",176.78M
