@@ -1,14 +1,14 @@
 Exchange Name,Country,Code,Currency,Stocks
-US OTC,United States,OTC,USD,7458
+US OTC,United States,OTC,USD,7459
 Tokyo Stock Exchange,Japan,TYO,JPY,3873
-Nasdaq Stock Market,United States,NASDAQ,USD,3329
+Nasdaq Stock Market,United States,NASDAQ,USD,3328
 Shenzhen Stock Exchange,China,SHE,CNY,2808
 Bombay Stock Exchange,India,BOM,INR,2577
 Hong Kong Stock Exchange,Hong Kong,HKG,HKD,2415
 Shanghai Stock Exchange,China,SHA,CNY,2170
 National Stock Exchange of India,India,NSE,INR,1983
 New York Stock Exchange,United States,NYSE,USD,1960
-Australian Securities Exchange,Australia,ASX,AUD,1641
+Australian Securities Exchange,Australia,ASX,AUD,1642
 KOSDAQ,South Korea,KOSDAQ,KRW,1636
 Taipei Exchange,Taiwan,TPEX,TWD,1132
 Taiwan Stock Exchange,Taiwan,TPE,TWD,1013
@@ -41,7 +41,7 @@ Egyptian Stock Exchange,Egypt,EGX,EGP,215
 Johannesburg Stock Exchange,South Africa,JSE,ZAR,210
 SIX Swiss Exchange,Switzerland,SWX,CHF,207
 Moscow Stock Exchange,Russia,MOEX,RUB,202
-Bucharest Stock Exchange,Romania,BVB,RON,174
+Bucharest Stock Exchange,Romania,BVB,RON,175
 Singapore Exchange - Catalist,Singapore,SGXC,SGD,160
 Copenhagen Stock Exchange,Denmark,CPH,DKK,157
 Santiago Stock Exchange,Chile,SNSE,CLP,154
